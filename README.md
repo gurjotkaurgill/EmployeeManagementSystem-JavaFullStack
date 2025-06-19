@@ -52,4 +52,4 @@ A desktop application built using Java Swing that allows administrators to manag
 
 ---
 
-Please see the Screenshots folder to look at the actual GUI.
+Please see the [Screenshots folder](https://github.com/gurjotkaurgill/EmployeeManagementSystem-JavaFullStack/tree/master/Screenshots) to look at the actual GUI.
